@@ -6,6 +6,6 @@ target 'Giphy' do
   	pod 'Alamofire'
 	pod 'RealmSwift'
 	pod 'ObjectMapper'
-    pod 'R.swift'
+    	pod 'R.swift'
     
 end
